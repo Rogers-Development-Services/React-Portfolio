@@ -1,0 +1,26 @@
+div#root > div > div > h2 {
+    color: #38b09a;
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+};
+
+.thankyou_message {
+    display: none;
+};
+
+.input {
+    margin: 1rem;
+}
+
+.introduction {
+    margin-bottom: 1rem;
+}
+
+/* .honeypot-field {
+    display: none;
+}; */
+
+/* .submit-button {
+    margin: 1rem;
+}; */

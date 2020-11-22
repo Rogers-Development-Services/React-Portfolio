@@ -1,0 +1,6 @@
+div#root > div > div > h2 {
+    color: #38b09a;
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+};

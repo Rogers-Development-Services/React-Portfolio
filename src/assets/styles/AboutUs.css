@@ -1,0 +1,19 @@
+div#root > div > div > section > h2 {
+    color: #38b09a;
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem
+};
+
+/* div#root > div > div > div > .black-text {
+    background-color: #38b09a;
+}; */
+
+/* div#root > div > div > section > div  {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}; */
+/* .skills-container {
+    margin: 1rem;
+}; */
