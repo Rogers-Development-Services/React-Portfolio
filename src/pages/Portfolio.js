@@ -13,7 +13,7 @@ const styles = {
 
 function Portfolio() {
   return (
-    <div>
+    <div className="container">
       <h2>Portfolio</h2>
       <Row>
         <Col
@@ -136,7 +136,7 @@ function Portfolio() {
         >
           <Card
             closeIcon={<Icon>close</Icon>}
-            header={<CardTitle image="https://rogers-development-services.github.io/Portfolio/Assets/Images/WordPressExample.JPG" alt="Word-Press-Example" reveal waves="light" />}
+            header={<CardTitle image="https://user-images.githubusercontent.com/38272211/100006964-297c2e00-2d80-11eb-9ff8-eefd3e592ce6.JPG" alt="Word-Press-Example" reveal waves="light" />}
             reveal={
               <p>​This page will serve as a single page application for 4CBuisness. Specifically, it serves to communicate values, when events are coming up, and the ability to connect with the business.
                 <Button
@@ -158,7 +158,7 @@ function Portfolio() {
         >
           <Card
             closeIcon={<Icon>close</Icon>}
-            header={<CardTitle image="https://rogers-development-services.github.io/Portfolio/Assets/Images/burger.jpg" alt="Express-MYSQL-Application" reveal waves="light" />}
+            header={<CardTitle image="https://www.thespruceeats.com/thmb/LDrkRByRnQInfZF25HyLYSJ0Iyg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/garlic-burger-patties-333503-hero-01-e4df660ff27b4e5194fdff6d703a4f83.jpg" alt="Express-MYSQL-Application" reveal waves="light" />}
             reveal={
               <p>This Heroku DB application wil create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). (It is designed via the MVC design pattern
                 <Button
