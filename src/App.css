@@ -33,9 +33,16 @@ div#root > div > nav {
   background-color: #343a40;
 };
 
-/* div#root > div > nav > div > ul > li > img {
-  
-}; */
+/* #38b09a */
+/* Footer Styling */
+/* div#root > div > footer.page-footer.example {
+  background-color: #38b09a;
+} */
+/* div#root > div > footer {
+  display: flex;
+  justify-content: center;
+  background-color: #38b09a;
+} */
 
 
 
